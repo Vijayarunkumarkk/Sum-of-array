@@ -12,7 +12,7 @@ public class SumOfArray {
             for (int i=0;i<arr.length;i++) {
           sum=sum+arr[i];
           }
-          System.out.println("sum of all the elements of an array:"+sum);
+          System.out.println("sum of all the elements of maaaaaa an array:"+sum);
           
       }
 }
